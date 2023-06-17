@@ -42,8 +42,8 @@ Here is the schematic of the project:
 
 ## Demo(Application in action):
 
-[![DEMO #1](https://asciinema.org/a/113463.png)](https://www.youtube.com/watch?v=KkPbJu2hXiY)
+[![DEMO #1 - General functionality](https://asciinema.org/a/113463.png)](https://www.youtube.com/watch?v=KkPbJu2hXiY)
 
-[![DEMO #2](https://asciinema.org/a/113463.png)](https://www.youtube.com/watch?v=q9nXN4759RY)
+[![DEMO #2 - Distance sensor and photoresistor](https://asciinema.org/a/113463.png)](https://www.youtube.com/watch?v=q9nXN4759RY)
 
 Made by: [Predrag Spasovski](https://github.com/predrag1998) & [Dimitar Betinski](https://github.com/dimitry4now)
