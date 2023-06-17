@@ -42,10 +42,8 @@ Here is the schematic of the project:
 
 ## Demo(Application in action):
 
-[![asciicast](https://asciinema.org/a/113463.png)](https://www.youtube.com/watch?v=KkPbJu2hXiY)
+[![DEMO #1](https://asciinema.org/a/113463.png)](https://www.youtube.com/watch?v=KkPbJu2hXiY)
 
-[![DEMO1](https://github.com/Dimitry4Now/Smart-Home/assets/68469701/d9d4f928-437f-47ba-9387-9c2195c35463)](https://www.youtube.com/watch?v=KkPbJu2hXiY)
-
-[![DEMO2](https://github.com/Dimitry4Now/Smart-Home/assets/68469701/3f8ea21a-24d3-4efb-a145-6ef231e671b0)](https://www.youtube.com/watch?v=q9nXN4759RY)
+[![DEMO #2](https://asciinema.org/a/113463.png)](https://www.youtube.com/watch?v=q9nXN4759RY)
 
 Made by: [Predrag Spasovski](https://github.com/predrag1998) & [Dimitar Betinski](https://github.com/dimitry4now)
