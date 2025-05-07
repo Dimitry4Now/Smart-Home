@@ -32,6 +32,8 @@ The application looks something like this(the preview on the website is worse, i
 
 ![MIT_Screen](https://github.com/Dimitry4Now/Smart-Home/assets/68469701/255ceb4a-22fc-47e1-8db2-f219210a1909)
 
+The project file(.aia) can be found in the android folder of this project.
+
 ## Arduino part
 
 On the arduino side of things, we are parsing the input from the bluetooth(recieved by the Android application) and doing stuff according to it. We tried to segment the code into functions so it is more readable.We tried to comment all parts of the code as well.
@@ -39,6 +41,8 @@ On the arduino side of things, we are parsing the input from the bluetooth(recie
 Here is the schematic of the project:
 
 ![ArduinoMaketa](https://github.com/Dimitry4Now/Smart-Home/assets/68469701/605375c0-7b4a-49ee-adde-d3bf5909054d)
+
+The arduino source code can be found under the arduino folder of this project.
 
 ## Demo(Application in action):
 
